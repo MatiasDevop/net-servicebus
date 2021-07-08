@@ -1,0 +1,8 @@
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\bin\Debug\netstandard2.0\SBShared.deps.json
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\bin\Debug\netstandard2.0\SBShared.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\bin\Debug\netstandard2.0\SBShared.pdb
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfoInputs.cache
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfo.cs
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.csproj.CoreCompileInputs.cache
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.pdb

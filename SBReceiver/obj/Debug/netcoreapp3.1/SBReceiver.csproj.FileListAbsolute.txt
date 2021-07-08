@@ -1,0 +1,16 @@
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBReceiver.exe
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBReceiver.deps.json
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBReceiver.runtimeconfig.json
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBReceiver.runtimeconfig.dev.json
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBReceiver.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBReceiver.pdb
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.AssemblyInfoInputs.cache
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.AssemblyInfo.cs
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.csproj.CoreCompileInputs.cache
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.pdb
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.genruntimeconfig.cache
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBShared.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBShared.pdb
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.csprojAssemblyReference.cache
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.csproj.CopyComplete
