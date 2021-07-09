@@ -6,3 +6,4 @@ D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.Ass
 D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.csproj.CoreCompileInputs.cache
 D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.dll
 D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.pdb
+D:\NET 5 Devlopment\ServiceBusApp\SBShared\obj\Debug\netstandard2.0\SBShared.csprojAssemblyReference.cache

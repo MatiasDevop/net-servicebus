@@ -14,3 +14,14 @@ D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBShared.dl
 D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\SBShared.pdb
 D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.csprojAssemblyReference.cache
 D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\obj\Debug\netcoreapp3.1\SBReceiver.csproj.CopyComplete
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBReceiver\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
