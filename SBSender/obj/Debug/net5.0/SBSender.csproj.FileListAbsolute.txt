@@ -20,6 +20,8 @@ D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\Microsoft.IdentityMo
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\SBShared.dll
+D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\SBShared.pdb
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\obj\Debug\net5.0\SBSender.csprojAssemblyReference.cache
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\obj\Debug\net5.0\SBSender.GeneratedMSBuildEditorConfig.editorconfig
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\obj\Debug\net5.0\SBSender.AssemblyInfoInputs.cache
@@ -66,5 +68,3 @@ D:\NET 5 Devlopment\ServiceBusApp\SBSender\obj\Debug\net5.0\SBSender.dll
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\obj\Debug\net5.0\ref\SBSender.dll
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\obj\Debug\net5.0\SBSender.pdb
 D:\NET 5 Devlopment\ServiceBusApp\SBSender\obj\Debug\net5.0\SBSender.genruntimeconfig.cache
-D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\SBShared.dll
-D:\NET 5 Devlopment\ServiceBusApp\SBSender\bin\Debug\net5.0\SBShared.pdb

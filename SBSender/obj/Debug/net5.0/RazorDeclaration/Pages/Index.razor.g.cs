@@ -82,6 +82,20 @@ using SBSender.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "D:\NET 5 Devlopment\ServiceBusApp\SBSender\Pages\Index.razor"
+using SBShared.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "D:\NET 5 Devlopment\ServiceBusApp\SBSender\Pages\Index.razor"
+using SBSender.Services;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -90,6 +104,22 @@ using SBSender.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 26 "D:\NET 5 Devlopment\ServiceBusApp\SBSender\Pages\Index.razor"
+      
+    private PersonModel person = new PersonModel();
+
+    private async Task PublishMessage()
+    {
+        await queue.SendMessageAsync(person, "personqueue");
+        person = new PersonModel();
+    }
+
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IQueueService queue { get; set; }
     }
 }
 #pragma warning restore 1591
